@@ -1,0 +1,12 @@
+/Users/anastasiabuglakova/Documents/Double/ListMaster/obj/Debug/net6.0/ListMaster.csproj.AssemblyReference.cache
+/Users/anastasiabuglakova/Documents/Double/ListMaster/obj/Debug/net6.0/ListMaster.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anastasiabuglakova/Documents/Double/ListMaster/obj/Debug/net6.0/ListMaster.AssemblyInfoInputs.cache
+/Users/anastasiabuglakova/Documents/Double/ListMaster/obj/Debug/net6.0/ListMaster.AssemblyInfo.cs
+/Users/anastasiabuglakova/Documents/Double/ListMaster/obj/Debug/net6.0/ListMaster.csproj.CoreCompileInputs.cache
+/Users/anastasiabuglakova/Documents/Double/ListMaster/bin/Debug/net6.0/ListMaster.deps.json
+/Users/anastasiabuglakova/Documents/Double/ListMaster/bin/Debug/net6.0/ListMaster.dll
+/Users/anastasiabuglakova/Documents/Double/ListMaster/bin/Debug/net6.0/ListMaster.pdb
+/Users/anastasiabuglakova/Documents/Double/ListMaster/obj/Debug/net6.0/ListMaster.dll
+/Users/anastasiabuglakova/Documents/Double/ListMaster/obj/Debug/net6.0/refint/ListMaster.dll
+/Users/anastasiabuglakova/Documents/Double/ListMaster/obj/Debug/net6.0/ListMaster.pdb
+/Users/anastasiabuglakova/Documents/Double/ListMaster/obj/Debug/net6.0/ref/ListMaster.dll
